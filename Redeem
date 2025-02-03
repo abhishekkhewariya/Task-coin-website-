@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redeem Coins</title>
+</head>
+<body>
+    <h1>Redeem Your Coins</h1>
+    <p>यहां पर यूजर अपने Coins को Redeem कर सकता है।</p>
+    <a href="index.html">🏠 Home</a>
+</body>
+</html>
